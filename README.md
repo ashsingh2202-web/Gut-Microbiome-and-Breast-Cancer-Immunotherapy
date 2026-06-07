@@ -96,6 +96,6 @@ Metagenomics • QIIME2 • MetaPhlAn2 • HUMAnN2 • Flow Cytometry • Machin
 
 Ashima Singh, MPH
 
-📧 ashsingh2202@gmail.com
+📧 [ashsingh2202@gmail.com](mailto:ashsingh2202@gmail.com)
 
-🔗 http://linkedin.com/in/ashimasingh-mph
+💼 [LinkedIn](https://www.linkedin.com/in/ashimasingh-mph/)
