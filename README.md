@@ -1,159 +1,102 @@
-# Decoding the Gut Microbiome's Influence on Immunotherapy Efficacy in Breast Cancer
+# Gut Microbiome and Breast Cancer Immunotherapy
 
-**Researcher:** Ashima Singh, MPH
-**Affiliation:** University of Miami
-**Project Type:** Graduate Research Proposal
+**Researcher:** Ashima Singh, MPH  
+**Affiliation:** University of Miami  
+**Project Type:** Literature Review & Research Proposal  
 **Field:** Cancer Epidemiology | Translational Research | Precision Oncology
-
----
-
-## Research Workflow
-
-```text
-TNBC Patient Enrollment
-          ↓
-Stool Sample Collection
-          ↓
-Metagenomic Sequencing
-          ↓
-Immune Profiling
-          ↓
-Microbiome Analysis
-          ↓
-Biomarker Discovery
-          ↓
-Predictive Model Development
-```
 
 ---
 
 ## 📌 Project Overview
 
-This research proposal explores how the gut microbiome may influence immunotherapy outcomes among patients with Triple-Negative Breast Cancer (TNBC).
+This project explores the emerging relationship between the gut microbiome and immunotherapy outcomes in Triple-Negative Breast Cancer (TNBC).
 
-Although immune checkpoint inhibitors have improved treatment options for some TNBC patients, response rates remain highly variable. Emerging evidence suggests that gut microbiome composition may affect immune regulation and treatment efficacy. This proposal investigates whether microbiome-based biomarkers can help predict immunotherapy response and support future precision oncology strategies.
-
-Based on a graduate-level research proposal developed at the University of Miami.
+The review synthesizes current evidence regarding microbiome-mediated immune regulation, immune checkpoint inhibitor response, and biomarker development in cancer treatment. Based on identified gaps in the literature, a prospective study design is proposed to investigate microbiome-based predictors of immunotherapy success in TNBC patients.
 
 ---
 
-## 🎯 Specific Aims
+## 🎯 Objectives
 
-### Aim 1
-
-Identify pre-treatment gut microbiome signatures associated with immunotherapy response.
-
-### Aim 2
-
-Examine relationships between microbiome diversity and immune cell activity during treatment.
-
-### Aim 3
-
-Develop microbiome-based biomarkers predictive of treatment outcomes.
+- Review current evidence linking the gut microbiome and cancer immunotherapy
+- Examine mechanisms through which gut microorganisms influence immune responses
+- Evaluate existing evidence from melanoma, colorectal cancer, and breast cancer studies
+- Identify knowledge gaps in TNBC immunotherapy research
+- Propose a future epidemiologic study investigating microbiome-based biomarkers
 
 ---
 
-## 📊 Proposed Study Design
+## 🔬 Key Topics Reviewed
 
-### Study Population
-
-* Triple-Negative Breast Cancer (TNBC) patients
-* Receiving immune checkpoint inhibitor therapy
-* Adult participants (18+ years)
-
-### Sample Size
-
-**N = 60 patients**
-
-### Study Design
-
-Prospective longitudinal cohort study with repeated biological sample collection before, during, and after treatment.
+- Triple-Negative Breast Cancer (TNBC)
+- Immune Checkpoint Inhibitors
+- Gut Microbiome Diversity
+- Cancer Immunotherapy
+- Precision Oncology
+- Biomarker Discovery
+- Translational Cancer Research
+- Host-Microbiome Interactions
 
 ---
 
-## 🔬 Proposed Methods
+## 📚 Major Findings from the Literature
 
-### Microbiome Analysis
+Existing studies suggest that:
 
-* Shotgun metagenomic sequencing
-* QIIME2
-* MetaPhlAn2
-* HUMAnN2
-
-### Immune Profiling
-
-* Flow cytometry
-* T-cell activation markers
-* Cytokine profiling
-
-### Statistical Modeling
-
-* Random Forest
-* Support Vector Machines
-* LASSO Regression
-* Cox Proportional Hazards Models
+- Gut microbiome composition influences systemic immune responses
+- Specific microbial taxa are associated with improved immunotherapy outcomes
+- Microbial metabolites may affect immune activation and tumor response
+- Microbiome diversity may serve as a predictive marker for treatment success
+- Significant research gaps remain regarding TNBC-specific immunotherapy outcomes
 
 ---
 
-## 🌟 Innovation
+## 💡 Proposed Future Research
 
-This proposal integrates:
+The proposal outlines a prospective cohort study involving:
 
-* Gut microbiome research
-* Cancer immunotherapy
-* Translational epidemiology
-* Multi-omics approaches
-* Machine learning techniques
+- Triple-Negative Breast Cancer patients
+- Gut microbiome sequencing
+- Immune profiling
+- Clinical outcome monitoring
+- Biomarker identification
 
-to investigate mechanisms underlying immunotherapy response in breast cancer.
+The proposed study aims to identify microbiome-based predictors of immunotherapy response and support future precision medicine approaches.
 
 ---
 
 ## 👩‍🔬 Skills Demonstrated
 
-* Research Design
-* Grant Proposal Development
-* Cancer Epidemiology
-* Translational Research
-* Biomarker Discovery
-* Precision Medicine
-* Scientific Writing
-* Literature Review
-* Survival Analysis Concepts
+- Literature Review
+- Scientific Writing
+- Research Proposal Development
+- Cancer Epidemiology
+- Translational Research
+- Biomarker Research
+- Precision Medicine Concepts
+- Evidence Synthesis
 
 ---
 
-## 💡 Potential Public Health Impact
+## 🧰 Technical Concepts
 
-If successful, this research could:
-
-* Improve treatment personalization
-* Identify predictive biomarkers for immunotherapy response
-* Reduce ineffective treatment exposure
-* Support precision oncology approaches
-* Advance understanding of host-microbiome interactions in cancer treatment
+Metagenomics • QIIME2 • MetaPhlAn2 • HUMAnN2 • Flow Cytometry • Machine Learning • Random Forest • Survival Analysis • Cox Regression
 
 ---
 
 ## 📂 Files in This Repository
 
-| File                         | Description                               |
-| ---------------------------- | ----------------------------------------- |
-| `README.md`                  | Project overview and proposed methodology |
-| `Breast_Cancer_Proposal.pdf` | Full research proposal                    |
-
----
-
-## 📚 Key Topics
-
-Cancer Epidemiology • Immunotherapy • Triple-Negative Breast Cancer • Gut Microbiome • Biomarker Discovery • Precision Medicine • Translational Research • Survival Analysis
+| File | Description |
+|--------|-------------|
+| README.md | Project overview |
+| Literature_Review_and_Proposal.pdf | Full paper |
+| Study_Framework.png | Conceptual framework |
 
 ---
 
 ## 📫 Contact
 
-**Ashima Singh, MPH**
+Ashima Singh, MPH
 
-📧 [ashsingh2202@gmail.com](mailto:ashsingh2202@gmail.com)
+📧 ashsingh2202@gmail.com
 
 🔗 linkedin.com/in/ashimasingh-mph
