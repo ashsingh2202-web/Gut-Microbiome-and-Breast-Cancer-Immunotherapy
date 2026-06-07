@@ -98,4 +98,4 @@ Ashima Singh, MPH
 
 📧 ashsingh2202@gmail.com
 
-🔗 linkedin.com/in/ashimasingh-mph
+🔗 http://linkedin.com/in/ashimasingh-mph
