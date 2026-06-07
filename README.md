@@ -89,7 +89,6 @@ Metagenomics • QIIME2 • MetaPhlAn2 • HUMAnN2 • Flow Cytometry • Machin
 |--------|-------------|
 | README.md | Project overview |
 | Literature_Review_and_Proposal.pdf | Full paper |
-| Study_Framework.png | Conceptual framework |
 
 ---
 
